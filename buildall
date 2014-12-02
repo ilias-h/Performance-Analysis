@@ -1,0 +1,1 @@
+gcc -Wall -o lab2 menu.c qsort.c qsort_out.c mkarr.c bsort.c bsort_out.c lsearch.c bsearch.c printres.c isort.c isort_out.c -lm
